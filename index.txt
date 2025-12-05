@@ -2,7 +2,7 @@ Qamesh - personal portfolio
 
 # HEDER
 
-Jack.
+AQ.
 
 En
 Ar
@@ -71,7 +71,8 @@ About me
 
 Need a Creative Product? I can Help You!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+Hi! I’m Ahmed Qamesh, a firmware designer passionate about turning complex problems into clear, efficient FPGA solutions. I work across the full development flow—architecting systems, coding in VHDL/Verilog, and driving designs through validation. I’ve led projects from concept to production, collaborating closely with cross-functional teams to deliver reliable and scalable firmware.
+
 
 Hire me
 
